@@ -6,3 +6,6 @@
         <li>readline-sync</li>
         <li>chalk</li>
     </p>
+
+<button style="color: white; background-color: black;">
+<a href="https://replit.com/@devgaikwad/do-you-know-me?embed=1&ouput=1">Play Quiz</a></button>
